@@ -1,2 +1,2 @@
 # Tetris
-Tetris w/ Java Swing
+Tetris build using Java Swing
